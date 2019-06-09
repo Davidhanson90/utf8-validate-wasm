@@ -1,0 +1,7 @@
+{
+  "name": "utf-validate",
+  "version": "1.0.0",
+  "description": "WASM UTF8 validate ",
+  "author": "",
+  "license": "ISC"
+}
